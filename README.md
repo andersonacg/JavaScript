@@ -50,9 +50,7 @@ Resultados das Semanas Omnistack:
 
 ## 🔖 Layout
 
-Você pode baixar o layout do projeto no formato `.sketch` através [desse link](https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/semana-omnistack/aircnc.sketch).
-
-Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utilize a ferramenta [Zeplin](https://zeplin.io).
+Clone ou Baixe os Projetos A vontade.. hehe :)
 
 ## 🤔 Como contribuir
 
