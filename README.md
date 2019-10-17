@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="Aircnc" title="#delicinha" src=".github/logo.png" width="250px" />
+    <label>Projetos e Resultados de Cursos Feitos em JS</label>
 </h1>
 
 <h4 align="center">
-  ☕ Code and coffee
+  Projetos Java Script
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-9.svg">
